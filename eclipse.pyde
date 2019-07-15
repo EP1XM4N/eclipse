@@ -3,7 +3,7 @@ background(0,0,0) #make comments
 f
 fill(50,50,50)
 textSize(100)
-text("Kameren J Brown", 150,500)
+text("Kameren Brown", 150,500)
 fill(250,250,0)
 ellipse(0,250,500,500) #sun
 translate(-60,0)
